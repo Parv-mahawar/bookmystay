@@ -2,6 +2,7 @@
 /shelf/
 /workspace.xml
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Ignored default folder with query files
 /queries/
 # Datasource local storage ignored files
@@ -11,3 +12,5 @@
 /httpRequests/
 =======
 >>>>>>> 7777eed (Base application setup)
+=======
+>>>>>>> 9f81a37 (UC1: Add welcome message module)
